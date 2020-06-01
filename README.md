@@ -30,7 +30,7 @@
 
    `	pip install pyecharts_snapshot-0.2.0-py2.py3-none-any.whl` 
 
-  4.需要下载地图库
+    4.需要下载地图库
 
    `pip install echarts-countries-pypkg`
 
